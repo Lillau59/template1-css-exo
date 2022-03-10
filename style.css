@@ -1,0 +1,25 @@
+body {
+    color: black;
+    text-align: center;
+}
+
+.document{
+    background-color: lightgrey;
+    height: 100vh;
+    
+    }
+
+    figure{
+        background-color: white;
+    }
+li
+{text-align: left;
+    margin-top: 10px;
+
+}
+.history
+{
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+}
